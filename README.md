@@ -1,4 +1,4 @@
-This repository contains our group's - Vitosta Vaille Valmis - files for the prototype submission.
+This repository contains our group's - Vitosta Vaille Valmis - Group project
 
 Figma_prototype.fig contains the figma prototype. 
 A shareable link to it: https://www.figma.com/proto/feHbz6M1IiLlxnSYAVXDi4/SoftwareDesign-Group-Assignment?node-id=6%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=6%3A2&show-proto-sidebar=1
